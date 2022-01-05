@@ -12,20 +12,20 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "✨💻웹 개발 기술 블로그"
+title                    : "💻웹 개발 기술 블로그"
 title_separator          : "|"
-subtitle                 : Just Do It ! 
+subtitle                 : 코딩은 재밌다.
 name                     : "Daehwan2"
 description              : "Daehwan2의 블로그 입니다."
 url                      : "https://daehwan2.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.png"
+logo                     : 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true
 words_per_minute         : 200
@@ -106,7 +106,7 @@ author:
   avatar           : "/assets/images/avatar.jpg"
   bio              : "I am an **amazing** person.😎"
   location         : "South Korea"
-  email            :
+  email            : "yournight0482@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
